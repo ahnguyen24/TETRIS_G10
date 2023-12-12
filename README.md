@@ -1,4 +1,4 @@
-TETRIS 
+# TETRIS 
 -------------------------- 
 "Originating from the creative mind of Alexey Pajitnov in 1984, Tetris has transcended generations, captivating players with its deceptively straightforward yet endlessly engaging gameplay."
 -------------------------- 
